@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VAHAN Mobile OTP Button Enable
 // @namespace    vahan.mobile.otp.enable
-// @version      1.0
+// @version      1.1
 // @description  Adds a right-side button to enable and open “Proceed with mobile OTP Verification”
 // @match        https://vahan.parivahan.gov.in/vahanservice/vahan/ui/eapplication/form_eApplicatonHome.xhtml*
 // @run-at       document-idle
